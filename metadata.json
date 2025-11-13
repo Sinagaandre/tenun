@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Informasi Pemasaran Tenun Tapanuli Utara",
+  "description": "A web-based dashboard for the Trade and Industry Office of North Tapanuli Regency to manage the marketing of traditional Tenun products. This system allows for the management of products, users, orders, suppliers, and promotions.",
+  "requestFramePermissions": []
+}
